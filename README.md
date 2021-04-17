@@ -4,6 +4,9 @@ Diretório do projeto original nest [link](https://github.com/rocketseat-educati
 # Sobre o projeto
 Este é o back-end desenvolvido para o desafio Database Upload do curso GoStack da Rocketseat. O front-end dessa aplicação está disponível [aqui](https://github.com/hiroyamaguch/gostack_challenge_6).
 
+## Layout web
+![Web 1](https://github.com/hiroyamaguch/assets/blob/423f8861506e477da828c4643fac4914073ce7d0/challenge5_6/web1.png)
+
 # Tecnologias utilizadas
 - JS / TypeScript
 - [Node.js](https://nodejs.org/en/)
